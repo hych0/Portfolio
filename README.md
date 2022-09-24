@@ -26,6 +26,7 @@ Programming portfolio
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
+  
 # <Data Analysis Project>
 # [Project 1](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
 - An interactive webapp of a water gas shift reaction (WGSR) catalyst experimental dataset.
