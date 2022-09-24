@@ -1,5 +1,5 @@
 # Rosemary_Portfolio
-Programming portfolio
+
 
 # < Python Machine Learning Projects >
 ## [Project 1: CO2RR Catatlyst Screening ](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
