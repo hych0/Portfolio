@@ -14,7 +14,7 @@
 # Python Machine Learning Projects 
 ------------------------------
 ## <a name="custom-anchor"></a>Regression
-### <a name="custom-anchor1"></a>CO2RR Catalyst Screening
+### <a name="custom-anchor1"></a>1. CO2RR Catalyst Screening
 ### [Code](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
 
 - Implemented “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening"[1] using TensorFlow, Keras, Scikit-learn, and matplotlib.
@@ -27,7 +27,7 @@
 
 ##### [1] Xin, Hongliang, et al. “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening.” The Journal of Physical Chemistry Letters, vol. 8, no. 18, 2015, pp. 3528–33, https://doi.org/10.1021/acs.jpclett.5b01660
 
-### <a name="custom-anchor2"></a>Linear regression of a noisy sinewave using a set of gaussian basis functions
+### <a name="custom-anchor2"></a>2. Linear regression of a noisy sinewave using a set of gaussian basis functions
 ### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning1.pdf)
 - Used automatic differentiation and stochastic gradient descent to train a set of gaussian basis functions to perform linear regression on a noisy sinewave.
 <img width="788" alt="Screen Shot 2022-09-24 at 3 59 12 PM" src="https://user-images.githubusercontent.com/74970802/192116269-d0e9a643-1099-4c9b-95c4-ca7c66627fce.png">
