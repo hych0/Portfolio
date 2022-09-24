@@ -8,7 +8,7 @@
 ## 2. Data Analysis Project
 - [Web App of a Catalyst Experimental Dataset](#custom-anchor5)
 ## 3. C++ Project
-- [Using singly-linked structure to implement stacks and queues](#custom-anchor5)
+- [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
 
 # 1. Python Machine Learning Projects 
 ### <a name="custom-anchor"></a>Regression
