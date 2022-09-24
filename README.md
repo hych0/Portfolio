@@ -1,13 +1,13 @@
 # Rosemary_Portfolio
-## 1. Python Machine Learning Projects
+#### 1. Python Machine Learning Projects
 - [Regression](#custom-anchor)
   - [CO2RR Catalyst Screening](#custom-anchor1)
   - [Linear Regression](#custom-anchor2)
 - [Classification](#custom-anchor3)
 - [Image Recognition](#custom-anchor4)
-## 2. Data Analysis Project
+#### 2. Data Analysis Project
 - [Web App of a Catalyst Experimental Dataset](#custom-anchor5)
-## 3. C++ Project
+#### 3. C++ Project
 - [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
 
 # 1. Python Machine Learning Projects 
