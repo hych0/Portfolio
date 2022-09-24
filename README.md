@@ -1,5 +1,6 @@
 # Rosemary_Portfolio
 [first](#custom-anchor)
+[second](#custom-anchor3)
 
 
 # < Python Machine Learning Projects >
@@ -18,7 +19,9 @@
 - Used automatic differentiation and stochastic gradient descent to train a set of gaussian basis functions to perform linear regression on a noisy sinewave.
 <img width="788" alt="Screen Shot 2022-09-24 at 3 59 12 PM" src="https://user-images.githubusercontent.com/74970802/192116269-d0e9a643-1099-4c9b-95c4-ca7c66627fce.png">
 
-## [Project 3: Binary classification on the spirals dataset using a multi-layer perceptron](https://github.com/hych0/DeepLearning/blob/main/DeepLearning2.pdf)
+## [link](#custom-anchor3)
+## [Project 3: Binary classification on the spirals dataset using a multi-layer perceptron]
+(https://github.com/hych0/DeepLearning/blob/main/DeepLearning2.pdf)
 - Utilized L2 regularization on a multi-layer perceptron model to classify a spirals dataset.
 <img width="793" alt="Screen Shot 2022-09-24 at 4 01 10 PM" src="https://user-images.githubusercontent.com/74970802/192116345-df89e635-3d7d-4133-8c74-cbaccfb4bb04.png">
 
