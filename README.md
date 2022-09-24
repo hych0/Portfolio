@@ -11,8 +11,8 @@
 - [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
 
 ------------------------------
-
 # Python Machine Learning Projects 
+------------------------------
 ## <a name="custom-anchor"></a>Regression
 ### <a name="custom-anchor1"></a>CO2RR Catalyst Screening
 ### [Code](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
@@ -43,16 +43,18 @@
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
-
+------------------------------
 # Data Analysis Project
+------------------------------
 ## <a name="custom-anchor5"></a>Web App of a Catalyst Experimental Dataset
 ### [Web App](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
 - An interactive web app of a water gas shift reaction (WGSR) catalyst experimental dataset.
 <img width="335" alt="Screen Shot 2022-09-24 at 4 13 25 PM" src="https://user-images.githubusercontent.com/74970802/192116681-01d2f45b-306f-4e11-bace-fbd472ab60d9.png">
 <img width="732" alt="Screen Shot 2022-09-24 at 4 14 08 PM" src="https://user-images.githubusercontent.com/74970802/192116693-40c38170-b42b-448b-a49f-8f01e59084cc.png">
 <img width="696" alt="Screen Shot 2022-09-24 at 4 14 24 PM" src="https://user-images.githubusercontent.com/74970802/192116699-f7be7d53-784a-4950-ba8d-c18d1c47bb71.png">
-
+------------------------------
 # C++ Project 
+------------------------------
 ## <a name="custom-anchor6"></a>Using singly-linked structure to implement stacks and queues
 ### [Code](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
 - Created a C++ program that utilizes singly linked list structure to implement stacks and queues.
