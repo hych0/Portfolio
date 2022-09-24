@@ -15,18 +15,15 @@ Programming portfolio
 
 ## [Linear regression of a noisy sinewave using a set of gaussian basis functions](https://github.com/hych0/DeepLearning/blob/main/DeepLearning1.pdf)
 - Used automatic differentiation and stochastic gradient descent to train a set of gaussian basis functions to perform linear regression on a noisy sinewave.
-- Produced result:
 <img width="788" alt="Screen Shot 2022-09-24 at 3 59 12 PM" src="https://user-images.githubusercontent.com/74970802/192116269-d0e9a643-1099-4c9b-95c4-ca7c66627fce.png">
 
 ## [Binary classification on the spirals dataset using a multi-layer perceptron](https://github.com/hych0/DeepLearning/blob/main/DeepLearning2.pdf)
 - Utilized L2 regularization on a multi-layer perceptron model to classify a spirals dataset.
-- Produced result:
 <img width="793" alt="Screen Shot 2022-09-24 at 4 01 10 PM" src="https://user-images.githubusercontent.com/74970802/192116345-df89e635-3d7d-4133-8c74-cbaccfb4bb04.png">
 
 ## [MNIST dataset classification](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
 - Acheived >95.5% test accuracy.
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
-- Produced result:
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
 # [Data Analysis Project](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
