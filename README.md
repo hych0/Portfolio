@@ -2,7 +2,7 @@
 Programming portfolio
 
 # Python Machine Learning Projects
-##[CO2RR Catatlyst Screening ](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
+## [CO2RR Catatlyst Screening ](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
 ## Implementing “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening" [1]
 ##### [1] Xin, Hongliang, et al. “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening.” The Journal of Physical Chemistry Letters, vol. 8, no. 18, 2015, pp. 3528–33, https://doi.org/10.1021/acs.jpclett.5b01660
 - Implemented “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening"[1] using TensorFlow, Keras, Scikit-learn, and matplotlib.
@@ -12,12 +12,12 @@ Programming portfolio
 - Literature:
 <img width="521" alt="Screen Shot 2022-09-24 at 3 56 19 PM" src="https://user-images.githubusercontent.com/74970802/192116172-153726fd-84a9-46e4-bd84-6072797d6ef3.png">
 
-##[Linear regression of a noisy sinewave using a set of gaussian basis functions](https://github.com/hych0/DeepLearning/blob/main/DeepLearning1.pdf)
+## [Linear regression of a noisy sinewave using a set of gaussian basis functions](https://github.com/hych0/DeepLearning/blob/main/DeepLearning1.pdf)
 - Used automatic differentiation and stochastic gradient descent to train a set of gaussian basis functions to perform linear regression on a noisy sinewave.
 - Produced result:
 <img width="788" alt="Screen Shot 2022-09-24 at 3 59 12 PM" src="https://user-images.githubusercontent.com/74970802/192116269-d0e9a643-1099-4c9b-95c4-ca7c66627fce.png">
 
-##[Binary classification on the spirals dataset using a multi-layer perceptron](https://github.com/hych0/DeepLearning/blob/main/DeepLearning2.pdf)
+## [Binary classification on the spirals dataset using a multi-layer perceptron](https://github.com/hych0/DeepLearning/blob/main/DeepLearning2.pdf)
 - Utilized L2 regularization on a multi-layer perceptron model to classify a spirals dataset.
 - Produced result:
 <img width="793" alt="Screen Shot 2022-09-24 at 4 01 10 PM" src="https://user-images.githubusercontent.com/74970802/192116345-df89e635-3d7d-4133-8c74-cbaccfb4bb04.png">
@@ -34,7 +34,7 @@ Programming portfolio
 <img width="732" alt="Screen Shot 2022-09-24 at 4 14 08 PM" src="https://user-images.githubusercontent.com/74970802/192116693-40c38170-b42b-448b-a49f-8f01e59084cc.png">
 <img width="696" alt="Screen Shot 2022-09-24 at 4 14 24 PM" src="https://user-images.githubusercontent.com/74970802/192116699-f7be7d53-784a-4950-ba8d-c18d1c47bb71.png">
 
-#[C++ Project](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
+# [C++ Project](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
 - Created a C++ program that utilizes singly linked list structure to implement stacks and queues.
 - It reads in a text input and outputs the results from parsing and executing the commands in the text input.
 - Input: "commands1.txt"
