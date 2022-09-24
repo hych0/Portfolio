@@ -1,16 +1,16 @@
-# Rosemary_Portfolio
-#### 1. Python Machine Learning Projects
+# Portfolio
+#### Python Machine Learning Projects
 - [Regression](#custom-anchor)
   - [CO2RR Catalyst Screening](#custom-anchor1)
   - [Linear Regression](#custom-anchor2)
 - [Classification](#custom-anchor3)
 - [Image Recognition](#custom-anchor4)
-#### 2. Data Analysis Project
+#### Data Analysis Project
 - [Web App of a Catalyst Experimental Dataset](#custom-anchor5)
-#### 3. C++ Project
+#### C++ Project
 - [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
 
-# 1. Python Machine Learning Projects 
+# Python Machine Learning Projects 
 ## <a name="custom-anchor"></a>Regression
 ### <a name="custom-anchor1"></a>CO2RR Catalyst Screening
 ### [Code](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
@@ -42,7 +42,7 @@
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
 
-# 2. Data Analysis Project
+# Data Analysis Project
 ## <a name="custom-anchor5"></a>Web App of a Catalyst Experimental Dataset
 ### [Web App](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
 - An interactive web app of a water gas shift reaction (WGSR) catalyst experimental dataset.
@@ -50,7 +50,7 @@
 <img width="732" alt="Screen Shot 2022-09-24 at 4 14 08 PM" src="https://user-images.githubusercontent.com/74970802/192116693-40c38170-b42b-448b-a49f-8f01e59084cc.png">
 <img width="696" alt="Screen Shot 2022-09-24 at 4 14 24 PM" src="https://user-images.githubusercontent.com/74970802/192116699-f7be7d53-784a-4950-ba8d-c18d1c47bb71.png">
 
-# 3. C++ Project 
+# C++ Project 
 ## <a name="custom-anchor6"></a>Using singly-linked structure to implement stacks and queues
 ### [Code](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
 - Created a C++ program that utilizes singly linked list structure to implement stacks and queues.
