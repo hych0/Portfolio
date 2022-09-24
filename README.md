@@ -1,7 +1,7 @@
 # Rosemary_Portfolio
 Programming portfolio
 
-# <Python Machine Learning Projects>
+# < Python Machine Learning Projects >
 ## [Project 1: CO2RR Catatlyst Screening ](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
 ## Implementing “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening" [1]
 ##### [1] Xin, Hongliang, et al. “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening.” The Journal of Physical Chemistry Letters, vol. 8, no. 18, 2015, pp. 3528–33, https://doi.org/10.1021/acs.jpclett.5b01660
@@ -26,16 +26,15 @@ Programming portfolio
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
-  
 
-# <Data Analysis Project>
-#[Project 1](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
+# < Data Analysis Project >
+# [Project 1](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
 - An interactive webapp of a water gas shift reaction (WGSR) catalyst experimental dataset.
 <img width="335" alt="Screen Shot 2022-09-24 at 4 13 25 PM" src="https://user-images.githubusercontent.com/74970802/192116681-01d2f45b-306f-4e11-bace-fbd472ab60d9.png">
 <img width="732" alt="Screen Shot 2022-09-24 at 4 14 08 PM" src="https://user-images.githubusercontent.com/74970802/192116693-40c38170-b42b-448b-a49f-8f01e59084cc.png">
 <img width="696" alt="Screen Shot 2022-09-24 at 4 14 24 PM" src="https://user-images.githubusercontent.com/74970802/192116699-f7be7d53-784a-4950-ba8d-c18d1c47bb71.png">
 
-# <C++ Project> 
+# < C++ Project > 
 # [Project 1](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
 - Created a C++ program that utilizes singly linked list structure to implement stacks and queues.
 - It reads in a text input and outputs the results from parsing and executing the commands in the text input.
