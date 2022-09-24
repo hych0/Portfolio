@@ -9,6 +9,7 @@ Programming portfolio
 - Produced results that show 17.5% improvement in RMSE compared to literature experiment values.
 - Produced result:
 <img width="615" alt="Screen Shot 2022-09-24 at 3 55 38 PM" src="https://user-images.githubusercontent.com/74970802/192116151-741adb29-1d98-45dc-9100-9d1bf8e69e08.png">
+
 - Literature:
 <img width="521" alt="Screen Shot 2022-09-24 at 3 56 19 PM" src="https://user-images.githubusercontent.com/74970802/192116172-153726fd-84a9-46e4-bd84-6072797d6ef3.png">
 
