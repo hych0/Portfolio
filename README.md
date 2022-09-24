@@ -10,6 +10,8 @@
 #### C++ Project
 - [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
 
+------------------------------
+
 # Python Machine Learning Projects 
 ## <a name="custom-anchor"></a>Regression
 ### <a name="custom-anchor1"></a>CO2RR Catalyst Screening
