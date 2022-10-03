@@ -17,7 +17,7 @@
 ### [Code](https://github.com/hych0/CO2RRCatalystScreening/blob/main/Main_CO2RR_CatalystScreening.ipynb)
 
 - Implemented “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening"[1] using TensorFlow, Keras, Scikit-learn, and matplotlib.
-- Produced results that show 17.5% improvement in RMSE compared to literature experiment values.
+- Produced results that show 17.5% improvement in RMSE compared to literature values.
 - Produced result:
 <img width="615" alt="Screen Shot 2022-09-24 at 3 55 38 PM" src="https://user-images.githubusercontent.com/74970802/192116151-741adb29-1d98-45dc-9100-9d1bf8e69e08.png">
 
