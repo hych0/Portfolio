@@ -26,6 +26,7 @@
 
 ##### [1] Xin, Hongliang, et al. “Machine-Learning-Augmented Chemisorption Model for CO2 Electroreduction Catalyst Screening.” The Journal of Physical Chemistry Letters, vol. 8, no. 18, 2015, pp. 3528–33, https://doi.org/10.1021/acs.jpclett.5b01660
 
+-------------
 ### <a name="custom-anchor2"></a>2. Linear regression of a noisy sinewave using a set of gaussian basis functions
 ### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning1.pdf)
 - Used automatic differentiation and stochastic gradient descent to train a set of gaussian basis functions to perform linear regression on a noisy sinewave.
