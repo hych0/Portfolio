@@ -50,13 +50,13 @@ Binary classification on the spirals dataset using a multi-layer perceptron
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
 ## <a name="custom-anchor6">Cifar10, Cifar100
-### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
+### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning4.pdf)
 - Acheived 92.2% accuracy for Cifar10 and 88.4% (Top-5 accuracy) for Cifar100.
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
 <img width="632" alt="Screen Shot 2022-10-05 at 4 32 11 PM" src="https://user-images.githubusercontent.com/74970802/194202718-9972c0f2-9e1a-4b0b-ae5c-b249fffb3f69.png">
 
 ## <a name="custom-anchor7">Natural Language Processing
-### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
+### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning5.pdf)
 - Acheived 92% accuracy on Agnews dataset.
 
 
