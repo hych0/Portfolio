@@ -5,10 +5,13 @@
   - [Linear Regression](#custom-anchor2)
 - [Classification](#custom-anchor3)
 - [Image Recognition](#custom-anchor4)
+  - [MNIST](#custom-anchor5)
+  - [Cifar10, Cifar100](#custom-anchor6)
+- [Natural Language Processing](#custom-anchor7)
 #### Data Analysis Project
-- [Web App of a Catalyst Experimental Dataset](#custom-anchor5)
+- [Web App of a Catalyst Experimental Dataset](#custom-anchor8)
 #### C++ Project
-- [Using singly-linked structure to implement stacks and queues](#custom-anchor6)
+- [Using singly-linked structure to implement stacks and queues](#custom-anchor9)
 
 ------------------------------
 # Python Machine Learning Projects
@@ -40,16 +43,27 @@ Binary classification on the spirals dataset using a multi-layer perceptron
 <img width="793" alt="Screen Shot 2022-09-24 at 4 01 10 PM" src="https://user-images.githubusercontent.com/74970802/192116345-df89e635-3d7d-4133-8c74-cbaccfb4bb04.png">
 
 ## <a name="custom-anchor4"></a>Image Recognition
-MNIST classification 
+## <a name="custom-anchor5">MNIST classification 
 ### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
 - Acheived >95.5% test accuracy.
 - Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
 <img width="788" alt="Screen Shot 2022-09-24 at 4 04 01 PM" src="https://user-images.githubusercontent.com/74970802/192116424-26e36284-404e-42f9-bd5c-f35887ee23de.png">
 
+## <a name="custom-anchor6">Cifar10, Cifar100
+### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
+- Acheived 92.2% accuracy for Cifar10 and 88.4% (Top-5 accuracy) for Cifar100.
+- Utilized L2 regularization and dropout to generalize the model and avoid overfitting.
+<img width="632" alt="Screen Shot 2022-10-05 at 4 32 11 PM" src="https://user-images.githubusercontent.com/74970802/194202718-9972c0f2-9e1a-4b0b-ae5c-b249fffb3f69.png">
+
+## <a name="custom-anchor7">Natural Language Processing
+### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning3.pdf)
+- Acheived 92% accuracy on Agnews dataset.
+
+
 ------------------------------
 # Data Analysis Project
 ------------------------------
-## <a name="custom-anchor5"></a>Web App of a Catalyst Experimental Dataset
+## <a name="custom-anchor8"></a>Web App of a Catalyst Experimental Dataset
 ### [Web App](https://hych0-wgsr-web-app-1eg9of.streamlitapp.com/)
 An interactive web app of a water gas shift reaction (WGSR) catalyst experimental dataset.
 
@@ -62,7 +76,7 @@ An interactive web app of a water gas shift reaction (WGSR) catalyst experimenta
 ------------------------------
 # C++ Project 
 ------------------------------
-## <a name="custom-anchor6"></a>Using singly-linked structure to implement stacks and queues
+## <a name="custom-anchor9"></a>Using singly-linked structure to implement stacks and queues
 ### [Code](https://github.com/hych0/DataStructuresAndAlgorithms/blob/master/DSA%231/DSA%231.cpp)
 - Created a C++ program that utilizes singly linked list structure to implement stacks and queues.
 - It reads in a text input and outputs the results from parsing and executing the commands in the text input.
