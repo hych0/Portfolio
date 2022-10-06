@@ -57,7 +57,7 @@ Binary classification on the spirals dataset using a multi-layer perceptron
 
 ## <a name="custom-anchor7">Natural Language Processing
 ### [Code](https://github.com/hych0/DeepLearning/blob/main/DeepLearning5.pdf)
-- Acheived 92% accuracy on Agnews dataset.
+- Acheived 92% accuracy on AGNews dataset.
 
 
 ------------------------------
